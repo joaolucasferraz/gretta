@@ -1,3 +1,3 @@
-# Site images
+# Imagens do site
 
-The site images are currently stored at the repository root as `look1.png`, `look2.png`, and `look3.png`. Move those files into this folder before changing the image paths in `index.html`.
+As imagens `look1.png`, `look2.png` e `look3.png` ficam nesta pasta e são utilizadas pelo `index.html`.
